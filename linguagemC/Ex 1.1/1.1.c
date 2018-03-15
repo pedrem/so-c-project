@@ -14,7 +14,7 @@ void main()
 {
     int valores[10];
     char aux[10];
- 
+
     for(int i = 0; i < 10; i++)
     {
         printf("Introduza um inteiro: ");
